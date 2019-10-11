@@ -1,13 +1,13 @@
-# Course Website: Programming Practices for Research Students, YEAR-INSTITUTE
+# Course Website: Programming Practices for Research Students, 2020-UZH
 
 ## Meta-Information
 
-*   Module Maintainer: YOURNAME (`YOUR_GH_NAME`)
+*   Module Maintainer: Lachlan Deer (`@lachlandeer`)
 *   Course: [Programming Practices for Research in Economics](https://pp4rs.github.io)
 *   Institute: YOUR DEPARTMENT
-*   Current Version: [YOUR edition](https://pp4rs.github.io/YOUR_REPO)
+*   Current Version: [Winter 2020](https://pp4rs.github.io/2020-uzh)
 
-Alternatively, email us at: programming 'AT' econ 'DOT' uzh 'DOT' ch
+Alternatively, email us at: pp4rs 'DOT' contact 'AT' gmail 'DOT' com
 
 ## Building the Site
 
@@ -45,7 +45,7 @@ All materials are licensed under a Creative Commons CC-BY-NC-SA license. The lic
 The suggested citation for the course materials is:
 
 ```
-Ulrich Bergmann, Lachlan Deer, Adran Etter, Julian Langer, Ursina Schaede, Dora Simon, Max Winkler, Carlo Zanella & Christian Zund, 2018, Programming Practices for Research in Economics, University of Zurich
+Ulrich Bergmann, Lachlan Deer, 2020, Programming Practices for Research in Economics, University of Zurich
 ```
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
