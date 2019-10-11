@@ -1,6 +1,6 @@
-Lesson: 2017-uzh
-Title: 2017 Uni Zurich Course Homepage
-Version: 2017.1.0
+Lesson: 2020-uzh
+Title: 2020 Uni Zurich Course Homepage
+Version: 2020.1.0
 Authors: person("Lachlan", "Deer", email = "lachlan.deer@gmail.com", role = c("aut", "cre"))
 Maintainer: Lachlan Deer <lachlan.deer@gmail.com>
 Description: Course Homepage. Built using `Mkdocs.`
