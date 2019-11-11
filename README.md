@@ -4,7 +4,7 @@
 
 *   Module Maintainer: Lachlan Deer (`@lachlandeer`)
 *   Course: [Programming Practices for Research in Economics](https://pp4rs.github.io)
-*   Institute: YOUR DEPARTMENT
+*   Institute: [Department of Economics, University of Zurich](https://econ.uzh.ch)
 *   Current Version: [Winter 2020](https://pp4rs.github.io/2020-uzh)
 
 Alternatively, email us at: pp4rs 'DOT' contact 'AT' gmail 'DOT' com
