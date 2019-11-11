@@ -1,8 +1,9 @@
 # Acknowledgements
 
-This course is designed after and borrows a lot from:
+This course is borrows motivation and occasionally content from:
 
 * [Effective Programming Practices for Economists](http://www.wiwi.uni-bonn.de/gaudecker/teaching.html#effective-programming-practices-for-economists-msc-phd), a course by [Hans-Martin von Gaudecker](http://www.wiwi.uni-bonn.de/gaudecker/index.html).
+* [Data Science for Economists](https://github.com/uo-ec607/lectures), a course by [Grant McDermott](https://grantmcdermott.com/)
 * [Software Carpentry](http://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/lessons/)
 
 
