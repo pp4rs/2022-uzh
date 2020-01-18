@@ -6,7 +6,6 @@ This course is borrows motivation and occasionally content from:
 * [Data Science for Economists](https://github.com/uo-ec607/lectures), a course by [Grant McDermott](https://grantmcdermott.com/)
 * [Software Carpentry](http://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/lessons/)
 
-
 ## Previous Editions
 
 Links to previous editions of PP4RS courses can be found [here](https://pp4rs.github.io/editions).
