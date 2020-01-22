@@ -25,7 +25,6 @@ Students who have taken Programmining Practices for Research in Economics: Found
 
   |              |  Monday         |       Tuesday       |       Wednesday         |      Thursday      |     Friday     |
   | -----------  |-----------------| ------------------- | ------------------------|--------------------| ---------------|
-  | *Week 1:*    |   |   |   |   |   |   |
   | AM           |  Terminal*      |  Basic Python       |  Basic Python           | Python: Pandas     | Python: Metrics |
   | PM           |  Terminal*      |  Basic Python       | Python: Numpy           | Python: Plotting   | Python: SciPy   |
 
