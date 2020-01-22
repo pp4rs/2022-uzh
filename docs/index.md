@@ -1,7 +1,6 @@
-# Willkommen!
+# Willkommen
 
 Welcome to the course website for Programming Practices for Research in Economics at the University of Zurich in Winter 2020.
-
 
 ## Important Information
 
@@ -23,13 +22,11 @@ We don't anticipate to deviate from the [Schedule](./schedule) too much - follow
 
 We will post a short survey that we expect participants to complete closer to the course start date.
 
-
 ## Software Installation Guide
 
 You will need to install the necessary software on to your laptop to bring to the class each day so you can code along with us.
 
-*   The most recent version of the installation guide is [here](https://pp4rs.github.io/installation-guide/). It will be updated before this edition begins.
-
+* The most recent version of the installation guide is [here](https://pp4rs.github.io/installation-guide/).
 
 !!! tip
     Please try and install all the software before the course begins.
@@ -42,3 +39,6 @@ You will need to install the necessary software on to your laptop to bring to th
 Throughout the course we will post useful tidbits of information, and answer questions that are slightly off topic in a web-chat environment called Slack.
 
 Click [here](https://pp4rs.slack.com/), or on the icon above, to be redirected to the Slack login page for our course.
+
+* Log in with your econ.uzh.ch, bf.uzh.ch or uzh.ch email address.
+* Join the channel `#general-2020`
