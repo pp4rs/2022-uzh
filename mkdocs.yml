@@ -11,3 +11,4 @@ theme: material
 markdown_extensions:
   - admonition
   - pymdownx.superfences
+  - attr_list
