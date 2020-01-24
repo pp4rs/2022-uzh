@@ -24,7 +24,7 @@ If you have questions during the course - direct them to us via [Slack](https://
 
     To avoid clogging up everyone's inboxes with course email, all future important information will be posted on the course's [Announcements page](https://pp4rs.github.io/2020-uzh/announcements) - be sure to check in there regularly. Smaller pieces of information and course chat will take place inside a chat environment, called [Slack](https://www.slack.com). Sign up to join the conversation [here](https://pp4rs.slack.com).
 
-    We look forward to seeing you on Wednesday, February 13th at 9.30am.
+    We look forward to seeing you on Monday, January 27, at 9.30am.
 
     Best,
 

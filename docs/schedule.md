@@ -7,6 +7,11 @@
     * Morning - 9.30 - 12.30
     * Afternoon - 14.00 - 17.00
 
+    Class Locations: All classes are in the ground floor of [Schoenberggasse 1](https://www.openstreetmap.org/#map=19/47.37274/8.54954).
+
+    * Monday Jan 27: SOF E 15
+    * Tues Jan 28 until end of course: SOF E 17
+
     The topic schedule for each day can be found below.
 
 !!! bug "Social Event"
