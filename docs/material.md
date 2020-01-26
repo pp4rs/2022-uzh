@@ -1,40 +1,13 @@
 # Course Material
 
-A link to course material will be posted closer to when the class begins.
+## Week One
 
-<!-- ## [GitHub repository](YOUR_LINK)
+* Terminal
+    * [![][zip-file-icon]{: style="width:25px"}][terminal-data] [terminal data][terminal-data]
 
-All our materials are located in a GitHub repository, located [here](YOUR_LINK). -->
+[terminal-data]: https://github.com/pp4rs/2020-uzh-course-material/blob/master/01-terminal/terminal-data.zip
 
-<!-- UNTIL YOU POST STUFF, HAVE A SCHEDULE LIKE BELOW -->
-
-<!-- ## Week 1
-* Introduction
-* Using the terminal
-* Version Control with Git
-* Python - Basics
-
-## Week 2
-
-* Python - NumPy
-* Python - SciPy
-* Python - Pandas
-* Python - Plotting
-* Python - Linear Models
-* R - Basics
-* R - knitr
-* R - Data Analysis
-* R - Plotting
-* R - Advanced
-
-## Week 3
-
-* R - Econometrics
-* R - GIS Tools
-* Python - Webscraping
-* SQL - Introduction
-* Build Tools - Snakemake -->
-
+[zip-file-icon]: https://cdn.onlinewebfonts.com/svg/img_261112.png
 
 <!-- # icon store
 * python [<img src="https://image.flaticon.com/icons/svg/2/2181.svg" width="20" height="20" />]()
