@@ -3,11 +3,11 @@
 ## Week One
 
 * Introduction + Motivation
-    * [![][zip-file-icon]{: style="width:32px"}][intro-slides] [slides][intro-slides]
+    * [![][pdf-icon]{: style="width:32px"}][intro-slides] [slides][intro-slides]
 * Terminal
     * [![][zip-file-icon]{: style="width:25px"}][terminal-data] [terminal data][terminal-data]
 
-[intro-slides: https://github.com/pp4rs/2020-uzh-course-material/raw/master/00-intro/intro.pdf
+[intro-slides]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/00-intro/intro.pdf
 [terminal-data]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/terminal-data.zip
 
 [pdf-icon]: https://image.flaticon.com/icons/png/512/35/35653.png
