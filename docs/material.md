@@ -6,9 +6,11 @@
     * [![][pdf-icon]{: style="width:32px"}][intro-slides] [slides][intro-slides]
 * Terminal
     * [![][zip-file-icon]{: style="width:25px"}][terminal-data] [terminal data][terminal-data]
+    * [![][pdf-icon]{: style="width:32px"}][terminal-slides] [slides][terminal-slides]
 
 [intro-slides]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/00-intro/intro.pdf
 [terminal-data]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/terminal-data.zip
+[terminal-slides]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/slides.pdf
 
 [pdf-icon]: https://image.flaticon.com/icons/png/512/35/35653.png
 [zip-file-icon]: https://cdn.onlinewebfonts.com/svg/img_261112.png
