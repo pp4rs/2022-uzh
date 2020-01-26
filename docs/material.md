@@ -5,7 +5,7 @@
 * Terminal
     * [![][zip-file-icon]{: style="width:25px"}][terminal-data] [terminal data][terminal-data]
 
-[terminal-data]: https://github.com/pp4rs/2020-uzh-course-material/blob/master/01-terminal/terminal-data.zip
+[terminal-data]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/terminal-data.zip
 
 [zip-file-icon]: https://cdn.onlinewebfonts.com/svg/img_261112.png
 
