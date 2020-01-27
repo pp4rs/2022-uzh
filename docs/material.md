@@ -12,7 +12,7 @@
 [intro-slides]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/00-intro/intro.pdf
 [terminal-data]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/terminal-data.zip
 [terminal-slides]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/slides.pdf
-[terminal-cheat]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/cheatsheet.pdf
+[terminal-cheat]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/cheat-sheet.pdf
 
 [pdf-icon]: https://image.flaticon.com/icons/png/512/35/35653.png
 [zip-file-icon]: https://cdn.onlinewebfonts.com/svg/img_261112.png
