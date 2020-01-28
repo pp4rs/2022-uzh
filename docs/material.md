@@ -15,6 +15,12 @@
 * Intro to Python
     * [![][zip-file-icon]{: style="width:25px"}][python-intro-zip][ intro-Python.zip][python-intro-zip]
 
+* Arrays with Numpy
+    * [![][data-icon]{: style="width:32px"}][numpy-data][ Numpy datasets][numpy-data]
+  
+    <!-- * instructor notebook from session
+    * notes -->
+
 [intro-slides]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/00-intro/intro.pdf
 [terminal-data]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/terminal-data.zip
 [terminal-slides]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/slides.pdf
@@ -24,6 +30,8 @@
 [terminal-summary-solutions]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/instructor-notes/2-solutions.pdf
 
 [python-intro-zip]: assets/python-intro.zip
+
+[numpy-data]: assets/numpy-data.zip
 
 [pdf-icon]: https://image.flaticon.com/icons/png/512/35/35653.png
 [zip-file-icon]: https://cdn.onlinewebfonts.com/svg/img_261112.png
