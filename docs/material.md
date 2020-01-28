@@ -8,6 +8,9 @@
     * [![][zip-file-icon]{: style="width:25px"}][terminal-data] [terminal data][terminal-data]
     * [![][pdf-icon]{: style="width:32px"}][terminal-slides] [slides][terminal-slides]
     * [![][pdf-icon]{: style="width:32px"}][terminal-cheat] [cheatsheet][terminal-cheat]
+    * [![][pdf-icon]{: style="width:32px"}][terminal-cheat] [exercises - basics ][terminal-summary-01]
+    * [![][pdf-icon]{: style="width:32px"}][terminal-cheat] [exercises - advanced][terminal-summary-02]
+    * [![][pdf-icon]{: style="width:32px"}][terminal-cheat] [exercises - solutions][terminal-summary-solutions]
 
 * Intro to Python
     * [![][zip-file-icon]{: style="width:25px"}][python-intro-zip][ intro-Python.zip][python-intro-zip]
@@ -16,6 +19,9 @@
 [terminal-data]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/terminal-data.zip
 [terminal-slides]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/slides.pdf
 [terminal-cheat]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/cheat-sheet.pdf
+[terminal-summary-01]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/instructor-notes/1-basics.pdf
+[terminal-summary-02]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/instructor-notes/2-advanced.pdf
+[terminal-summary-solutions]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/instructor-notes/2-solutions.pdf
 
 [python-intro-zip]: assets/python-intro.zip
 
