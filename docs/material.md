@@ -13,7 +13,7 @@
     * [![][pdf-icon]{: style="width:32px"}][terminal-cheat] [exercises - solutions][terminal-summary-solutions]
 
 * Intro to Python
-    * [![][zip-file-icon]{: style="width:25px"}][python-intro-zip][ intro-Python.zip][python-intro-zip]
+    * [![][zip-file-icon]{: style="width:25px"}][python-intro-zip][ python-intro.zip][python-intro-zip]
 
 * Arrays with Numpy
     * [![][data-icon]{: style="width:32px"}][numpy-data][ Numpy datasets][numpy-data]
