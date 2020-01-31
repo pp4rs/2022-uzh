@@ -25,6 +25,9 @@
 * Data with Pandas
     * [![][data-icon]{: style="width:32px"}][numpy-data][ Pandas datasets][pandas-data]
 
+* Linear Econometrics with Python
+    * [![][zip-file-icon]{: style="width:25px"}][python-metrics][ python-metrics.zip][python-metrics-zip]
+
 [intro-slides]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/00-intro/intro.pdf
 [terminal-data]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/terminal-data.zip
 [terminal-slides]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/slides.pdf
@@ -37,6 +40,7 @@
 [numpy-data]: assets/numpy-data.zip
 [mrw-paper]: https://eml.berkeley.edu/~dromer/papers/MRW_QJE1992.pdf
 [pandas-data]: assets/pandas-data.zip
+[python-metrics]: assets/python-metrics.zip
 
 
 [pdf-icon]: https://image.flaticon.com/icons/png/512/35/35653.png
