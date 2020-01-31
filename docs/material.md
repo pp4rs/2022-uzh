@@ -17,7 +17,7 @@
 
 * Arrays with Numpy
     * [![][data-icon]{: style="width:32px"}][numpy-data][ Numpy datasets][numpy-data]
-    * [![][pdf-icon]{: style="width:32px"}][numpy-data][ Mankiw, Romer, Weil, QJE 1992][numpy-data]
+    * [![][pdf-icon]{: style="width:32px"}][mrw-paper][ Mankiw, Romer, Weil, QJE 1992][numpy-data]
   
     <!-- * instructor notebook from session
     * notes -->
@@ -35,7 +35,7 @@
 
 [python-intro-zip]: assets/python-intro.zip
 [numpy-data]: assets/numpy-data.zip
-[mrw-data]: https://eml.berkeley.edu/~dromer/papers/MRW_QJE1992.pdf
+[mrw-paper]: https://eml.berkeley.edu/~dromer/papers/MRW_QJE1992.pdf
 [pandas-data]: assets/pandas-data.zip
 
 
