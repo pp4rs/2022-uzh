@@ -28,6 +28,7 @@ If you have questions during the course - direct them to us via [Slack](https://
     * Your assignment must execute by us typing:
         * `snakemake` or 
         * `snakemake all`
+  
       into a terminal that is opened into your project's directory
     * To pass the course:
         *  Your code must build without errors via Snakemake (unless we find something really weird, then we will reach out to you)
