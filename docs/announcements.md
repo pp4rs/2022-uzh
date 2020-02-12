@@ -4,6 +4,36 @@ Important announcements will be posted here to avoid our inboxes getting clogged
 
 If you have questions during the course - direct them to us via [Slack](https://pp4rs.slack.com). There's a 'Direct Message' feature so you can contact us individually as needed, but where possible post messages to a channel that all participants can see.
 
+!!! bug "Final Assignment"
+    *Date Posted: 2020-02-12*
+
+    Detail about the course assignment:
+
+    * Due date: Saturday, March 15 at 23:59.
+    * Discuss with one of us your proposed assignment before you start
+        * We can evaluate whether it is do-able within the time frame
+        * Don't try and be too fancy, it's more important that it works
+    * The assignment must:
+        - Do some form of data cleaning / manipulation as part of the workflow
+            - The initial "dataset" cannot be the one that generates the regression / figures
+        - Produce at least one figure and one table of results that are saved to file
+        - Integrate the figures and tables into an Rmarkdown or markdown file that produces a pdf as a final output
+        - Use `Snakemake` to execute the workflow
+    * Submission format: Invite @lachlandeer to collaborate on your GitHub repository by the due date.
+        * This means, we expect well version controlled work.
+        * Tag your final submission using the following git command `git tag -a 1.0 -m "submitted version"`
+        * You must have a README.md in the main directory with instructions on how we can build the assignment & what it does.
+    * Explictly document somewhere what packages we need to install so that your assignment runs on our machine with no issues.
+        - *Even better*: use the scripts we provided in the Snakemake example to install needed packages for us
+    * Your assignment must execute by us typing:
+        * `snakemake` or 
+        * `snakemake all`
+      into a terminal that is opened into your project's directory
+    * To pass the course:
+        *  Your code must build without errors via Snakemake (unless we find something really weird, then we will reach out to you)
+        * The project must be version controlled, with each contributor making commits. One final commit is not enough.
+        * Inputs and outputs must be in separate folders.
+
 !!! note "Welcome Message"
     *Date Posted: 2020-01-21*
 
