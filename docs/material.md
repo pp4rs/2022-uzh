@@ -1,5 +1,11 @@
 # Course Material
 
+Material for the first few days of the course are [here](#week-one).
+
+## Git Hub Repository
+
+Once we introduce Git and GitHub all materials can be found [here][course-material].
+
 ## Week One
 
 * Introduction + Motivation
@@ -23,10 +29,10 @@
     * notes -->
 
 * Data with Pandas
-    * [![][data-icon]{: style="width:32px"}][numpy-data][ Pandas datasets][pandas-data]
+    * [![][data-icon]{: style="width:32px"}][pandas-data][ Pandas datasets][pandas-data]
 
 * Linear Econometrics with Python
-    * [![][zip-file-icon]{: style="width:25px"}][python-metrics][ python-metrics.zip][python-metrics-zip]
+    * [![][zip-file-icon]{: style="width:25px"}][python-metrics][ python-metrics.zip][python-metrics]
 
 [intro-slides]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/00-intro/intro.pdf
 [terminal-data]: https://github.com/pp4rs/2020-uzh-course-material/raw/master/01-terminal/terminal-data.zip
@@ -47,6 +53,8 @@
 [zip-file-icon]: https://cdn.onlinewebfonts.com/svg/img_261112.png
 [ipynb-icon]: https://cdn1.iconfinder.com/data/icons/file-format-set/64/2878-512.png
 [data-icon]: https://cdn3.iconfinder.com/data/icons/servers-database-11/24/database_download_data_storage-512.png
+
+[course-material]: https://github.com/pp4rs/2020-uzh-course-material
 
 <!-- # icon store
 * python [<img src="https://image.flaticon.com/icons/svg/2/2181.svg" width="20" height="20" />]()
