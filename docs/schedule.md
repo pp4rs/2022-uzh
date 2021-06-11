@@ -24,24 +24,22 @@
 The following is a preliminary programme.
 It may be updated prior to the beginning of the course, and updated schedule will be forwarded before the course begins.
 
-Students who have taken Programmining Practices for Research in Economics: Foundations in Winter 2019 do not need to attend sessions marked with an asterisk, *.
-
 ### Week 1
 
   |              |  Monday         |       Tuesday       |       Wednesday         |      Thursday      |     Friday     |
   | -----------  |-----------------| ------------------- | ------------------------|--------------------| ---------------|
-  | AM           |  Terminal*      |  Basic Python       |  Basic Python           | Python: Pandas     | Python: Metrics |
-  | PM           |  Terminal*      |  Basic Python       | Python: Numpy           | Python: Plotting   | Python: SciPy   |
+  | AM           |                 |                     |                         |   Terminal         | Basic Python   |
+  | PM           |                 |                     |                         | Basic Python       | Basic Python   |
 
 
 ### Week 2
   |              |  Monday         |       Tuesday       |       Wednesday         |      Thursday      |     Friday     |
   | -----------  |-----------------| ------------------- | ------------------------|--------------------| ---------------|
-  | AM           | Webscraping      | Python Project     |   Version Control*      | Version Control*    | R: Basics*      |
-  | PM           |  Adv. Python     | Python Project     |  Version Control*       | R: Basics*          | R: Data Analy.* |
+  | AM           |  Python: Numpy  | Python: Plotting    |  Python: SciPy          | Adv. Python        | Version Control |
+  | PM           |  Python: Pandas | Python: Metrics     |    Webscraping          | Version Control    |  R: Basics     |
 
 ### Week 3
   |              |  Monday         |       Tuesday       |       Wednesday         |      Thursday      |     Friday     |
   | -----------  |-----------------| ------------------- | ------------------------|--------------------| ---------------|
-  | AM           | R: Plotting*     | R: Econometrics    | R Project               |  Build Tools*       |  Build Tools |
-  | PM           | R: Econometrics* | Advanced R         | R Project               |  Build Tools*       |  Build Tools  |
+  | AM           |     R: Basics   |   R: Plotting       |   R: Econometrics       |  Build Tools       |  R Project  |
+  | PM           | R: Data Analy.  |   R: Econometrics   |   Advanced R            |  Build Tools       |  R Project  |
