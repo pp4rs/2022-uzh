@@ -5,7 +5,7 @@
 *   Module Maintainer: Lachlan Deer (`@lachlandeer`)
 *   Course: [Programming Practices for Research in Economics](https://pp4rs.github.io)
 *   Institute: [Department of Economics, University of Zurich](https://econ.uzh.ch)
-*   Current Version: [Winter 2020](https://pp4rs.github.io/2020-uzh)
+*   Current Version: [Winter 2020](https://pp4rs.github.io/2021-uzh)
 
 Alternatively, email us at: pp4rs 'DOT' contact 'AT' gmail 'DOT' com
 
@@ -45,7 +45,7 @@ All materials are licensed under a Creative Commons CC-BY-NC-SA license. The lic
 The suggested citation for the course materials is:
 
 ```
-Ulrich Bergmann, Lachlan Deer, 2020, Programming Practices for Research in Economics, University of Zurich
+Lachlan Deer and Julian Langer, 2021, Programming Practices for Research in Economics, University of Zurich
 ```
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />

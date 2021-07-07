@@ -1,6 +1,8 @@
 # Course Material
 
-Material for the first few days of the course are [here](#week-one).
+Course Material will be posted closer to the course start date.
+
+<!-- Material for the first few days of the course are [here](#week-one).
 
 ## Git Hub Repository
 
@@ -62,4 +64,4 @@ Once we introduce Git and GitHub all materials can be found [here][course-materi
 * R   [<img src="https://www.blockspring.com/assets/r_icon-4430867d3ab1a3b1c975a195aabc5051a7099973eccd9cd00f8ea8c796b2e950.png" width="20" height="20" />]()
 * gitlab  [<img src="https://about.gitlab.com/ico/favicon.ico" width="20" height="20" />]()
 * jupyter  [<img src="https://nbsphinx.readthedocs.io/en/0.1.0/_images/example_17_0.png" width="30" height="30" />]()
-* bash [<img src="https://cdn4.iconfinder.com/data/icons/document-file-types-black/347/extention_file_type_black_115-512.png" width="30" height="30" />]() -->
+* bash [<img src="https://cdn4.iconfinder.com/data/icons/document-file-types-black/347/extention_file_type_black_115-512.png" width="30" height="30" />]() --> -->
