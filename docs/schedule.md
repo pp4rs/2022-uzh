@@ -1,21 +1,18 @@
 # Class Schedule
 
 !!! summary "Essential Information"
-    Classes begins on the 27th of January at 9.30 am and runs Monday to Friday until the 14th of February.
+    Classes begins on the 1st of September at 9.30 am and runs Monday to Friday until the 17th of September.
     Each day is divided into two sessions:
 
     * Morning - 9.30 - 12.30
     * Afternoon - 14.00 - 17.00
 
-    Class Locations: All classes are in the ground floor of [Schoenberggasse 1](https://www.openstreetmap.org/#map=19/47.37274/8.54954).
-
-    * Monday Jan 27: SOF E 15
-    * Tues Jan 28 until end of course: SOF E 17
+    Class Locations: TBA
 
     The topic schedule for each day can be found below.
 
 !!! bug "Social Event"
-    We will go for drinks on Friday the 31st of January after the class finshes.
+    We will go for drinks on Friday the 3rd of September after the class finishes.
 
     *Location: TBA*
 
@@ -28,8 +25,8 @@ It may be updated prior to the beginning of the course, and updated schedule wil
 
   |              |  Monday         |       Tuesday       |       Wednesday         |      Thursday      |     Friday     |
   | -----------  |-----------------| ------------------- | ------------------------|--------------------| ---------------|
-  | AM           |                 |                     |                         |   Terminal         | Basic Python   |
-  | PM           |                 |                     |                         | Basic Python       | Basic Python   |
+  | AM           |                 |                     |    Installation Help    |   Terminal         | Basic Python   |
+  | PM           |                 |                     |    Installation Help    | Basic Python       | Basic Python   |
 
 
 ### Week 2
@@ -41,5 +38,5 @@ It may be updated prior to the beginning of the course, and updated schedule wil
 ### Week 3
   |              |  Monday         |       Tuesday       |       Wednesday         |      Thursday      |     Friday     |
   | -----------  |-----------------| ------------------- | ------------------------|--------------------| ---------------|
-  | AM           |     R: Basics   |   R: Plotting       |   R: Econometrics       |  Build Tools       |  R Project  |
-  | PM           | R: Data Analy.  |   R: Econometrics   |   Advanced R            |  Build Tools       |  R Project  |
+  | AM           |     R: Basics   |   R: Plotting       |   R: Econometrics       |  Build Tools       |  Project Kickstarter  |
+  | PM           | R: Data Analy.  |   R: Econometrics   |   Advanced R            |  Build Tools       |  Project Kickstarter  |
