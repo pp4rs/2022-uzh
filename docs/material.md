@@ -30,7 +30,7 @@ Once we introduce Git and GitHub all materials can be found [here][course-materi
     <!-- * instructor notebook from session
     * notes -->
 
-* Data with Pandas
+<!-- * Data with Pandas
     * [![][data-icon]{: style="width:32px"}][pandas-data][ Pandas datasets][pandas-data]
 
 * Linear Econometrics with Python
@@ -56,7 +56,7 @@ Once we introduce Git and GitHub all materials can be found [here][course-materi
 [ipynb-icon]: https://cdn1.iconfinder.com/data/icons/file-format-set/64/2878-512.png
 [data-icon]: https://cdn3.iconfinder.com/data/icons/servers-database-11/24/database_download_data_storage-512.png
 
-[course-material]: https://github.com/pp4rs/2020-uzh-course-material
+[course-material]: https://github.com/pp4rs/2020-uzh-course-material -->
 
 <!-- # icon store
 * python [<img src="https://image.flaticon.com/icons/svg/2/2181.svg" width="20" height="20" />]()
@@ -64,4 +64,4 @@ Once we introduce Git and GitHub all materials can be found [here][course-materi
 * R   [<img src="https://www.blockspring.com/assets/r_icon-4430867d3ab1a3b1c975a195aabc5051a7099973eccd9cd00f8ea8c796b2e950.png" width="20" height="20" />]()
 * gitlab  [<img src="https://about.gitlab.com/ico/favicon.ico" width="20" height="20" />]()
 * jupyter  [<img src="https://nbsphinx.readthedocs.io/en/0.1.0/_images/example_17_0.png" width="30" height="30" />]()
-* bash [<img src="https://cdn4.iconfinder.com/data/icons/document-file-types-black/347/extention_file_type_black_115-512.png" width="30" height="30" />]() --> -->
+* bash [<img src="https://cdn4.iconfinder.com/data/icons/document-file-types-black/347/extention_file_type_black_115-512.png" width="30" height="30" />]() -->

@@ -1,6 +1,6 @@
 # Willkommen
 
-Welcome to the course website for Programming Practices for Research in Economics at the University of Zurich in Winter 2020.
+Welcome to the course website for Programming Practices for Research in Economics at the University of Zurich in Spring 2021.
 
 ## Important Information
 
@@ -11,7 +11,7 @@ Welcome to the course website for Programming Practices for Research in Economic
 
 !!! summary
 
-    * Dates: Daily from January 27th until 14 February (excluding weekends)
+    * Dates: Daily from September 1st until September 17th (excluding weekends)
     * Morning Session: 9.30 - 12.30
     * Afternoon Session: 14.00 - 17.00
     * Location: See [Schedule](./schedule)
@@ -19,10 +19,11 @@ Welcome to the course website for Programming Practices for Research in Economic
 
 
 ## Pre-Course Survey
-<!-- We will post a short survey that we expect participants to complete closer to the course start date. -->
-Please fill out the pre-course survey before the course begins.
+We will post a short survey that we expect participants to complete closer to the course start date.
 
-[![](https://img.icons8.com/cotton/64/000000/survey.png){: style="width:38px"}](https://forms.gle/5bB3ncpmkNwfQ34F7) [Pre-Course Survey](https://forms.gle/5bB3ncpmkNwfQ34F7)
+<!-- Please fill out the pre-course survey before the course begins.
+
+[![](https://img.icons8.com/cotton/64/000000/survey.png){: style="width:38px"}](https://forms.gle/5bB3ncpmkNwfQ34F7) [Pre-Course Survey](https://forms.gle/5bB3ncpmkNwfQ34F7) -->
 
 ## Software Installation Guide
 
@@ -40,7 +41,9 @@ You will need to install the necessary software on to your laptop to bring to th
 
 Throughout the course we will post useful tidbits of information, and answer questions that are slightly off topic in a web-chat environment called Slack.
 
-[![](https://maxcdn.icons8.com/Share/icon/Logos//slack1600.png){: style="width:32px"}](https://pp4rs.slack.com/) [Join Our Chat](https://pp4rs.slack.com/)
+Instructions on how to join our Slack chat will be distributed closer to the course start date.
+
+<!-- [![](https://maxcdn.icons8.com/Share/icon/Logos//slack1600.png){: style="width:32px"}](https://pp4rs.slack.com/) [Join Our Chat](https://pp4rs.slack.com/)
 
 * Log in with your econ.uzh.ch, bf.uzh.ch or uzh.ch email address.
-* Join the channel `#general-2020`
+* Join the channel `#general-2020` -->
