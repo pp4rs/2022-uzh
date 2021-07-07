@@ -32,5 +32,5 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 The suggested citation to be included in any such copies and other derivative work is:
 
 ```
-Ulrich Bergmann, Matteo Courthoud & Lachlan Deer (2020) Programming Practices for Research in Economics, University of Zurich
+Lachlan Deer and Julian Langer (2021) Programming Practices for Research in Economics, University of Zurich
 ```
