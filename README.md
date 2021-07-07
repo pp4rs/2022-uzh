@@ -1,4 +1,4 @@
-# Course Website: Programming Practices for Research Students, 2020-UZH
+# Course Website: Programming Practices for Research Students, 2021-UZH
 
 ## Meta-Information
 
@@ -25,10 +25,7 @@ pip install mkdocs-material
 ```{.bash, id:"j29ie3c7"}
 mkdocs serve
 ```
-* Post the site to github pages using:
-```{.bash, id:"j29ie3c7"}
-mkdocs gh-deploy
-```
+* We use a GitHub action to automatically deploy the website after pushing to the online repository
 
 ## Want to Contribute?
 
