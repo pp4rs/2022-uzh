@@ -1,6 +1,6 @@
 # Social Rules
 
-Social Media and Web Analytics has four social rules.
+Programming Practices for Research in Economics has four social rules.
 They help create a friendly, intellectual environment where you can spend as much of your energy as possible on learning.
 
 The social rules are:
@@ -94,7 +94,7 @@ They help make our class a pleasant environment where you are free to be yoursel
 
 The social rules don't cover harassment or discrimination.
 For that, we have a separate code of conduct enforced by the course instructors.
-All members of the Social Media and Web Analytics community are expected to abide by our [code of conduct](../conduct).
+All members of the Programming Practices for Research in Economics community are expected to abide by our [code of conduct](../conduct).
 
 ## Hat-tip
 
