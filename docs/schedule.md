@@ -27,6 +27,7 @@ It may be updated prior to the beginning of the course, and updated schedule wil
   | -----------  |-----------------| ------------------- | ------------------------|--------------------| ---------------|
   | AM           |                 |                     |    Installation Help    |   Terminal         | Basic Python   |
   | PM           |                 |                     |    Installation Help    | Basic Python       | Basic Python   |
+  | Room         |                 |                     |    TBA                  | RAA-E-27           | RAA-E-27       |
 
 
 ### Week 2
@@ -34,9 +35,13 @@ It may be updated prior to the beginning of the course, and updated schedule wil
   | -----------  |-----------------| ------------------- | ------------------------|--------------------| ---------------|
   | AM           |  Python: Numpy  | Python: Plotting    |  Python: SciPy          | Adv. Python        | Version Control |
   | PM           |  Python: Pandas | Python: Metrics     |    Webscraping          | Version Control    |  R: Basics     |
+  | Room         |  RAK-E-8        |   RAK-E-8           |   RAA-E-27              | RAA-E-27           | RAK-E-8        |
+
 
 ### Week 3
   |              |  Monday         |       Tuesday       |       Wednesday         |      Thursday      |     Friday     |
   | -----------  |-----------------| ------------------- | ------------------------|--------------------| ---------------|
   | AM           |     R: Basics   |   R: Plotting       |   R: Econometrics       |  Build Tools       |  Project Kickstarter  |
   | PM           | R: Data Analy.  |   R: Econometrics   |   Advanced R            |  Build Tools       |  Project Kickstarter  |
+  | Room         |  SOC-1-106      |   RAK-E-8           |   SOF-G_21              | RAA-E-27           | RAA-E-27       |
+
