@@ -11,14 +11,14 @@
 
     The topic schedule for each day can be found below.
 
-!!! bug "Social Event"
+<!-- !!! bug "Social Event"
     We will go for drinks on Friday the 3rd of September after the class finishes.
 
-    *Location: TBA*
+    *Location: TBA* -->
 
 ## Schedule
 
-The following is a preliminary programme.
+The following is a preliminary schedule.
 It may be updated prior to the beginning of the course, and updated schedule will be forwarded before the course begins.
 
 ### Week 1
