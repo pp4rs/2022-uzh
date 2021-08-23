@@ -28,7 +28,7 @@ If you have questions during the course - direct them to us via [Slack](https://
 
     Best,
 
-    Lachlan, Uli and Matteo
+    Lachlan, Julian, Lexi and Martin
 
 <!-- HERE IS AN EXAMPLE NOTE BOX -->
 <!-- !!! note "YOUR NOTE NAME"
