@@ -18,12 +18,25 @@ Once we introduce Git and GitHub all materials can be found [here][course-materi
 
 [Link to Lecture Notes](https://pp4rs.github.io/pp4rs-python/intro.html)
 
+## Week 2
+
+### Numpy
+
+[![][zip-file-icon]{: style="width:25px"}][numpy-data] [Data for the session][numpy-data]
+
+### Pandas
+
+[![][zip-file-icon]{: style="width:25px"}][pandas-data] [Data for the session][pandas-data]
+
 [course-material]: https://github.com/pp4rs/2021-uzh-course-material
 
 [intro-slides]: https://github.com/pp4rs/2021-uzh-course-material/raw/main/00-intro/intro.pdf
 [terminal-data]: https://github.com/pp4rs/2021-uzh-course-material/raw/main/01-terminal/terminal-data.zip
 [terminal-slides]: https://github.com/pp4rs/2021-uzh-course-material/raw/main/01-terminal/slides.pdf
 [terminal-cheat]: https://github.com/pp4rs/2021-uzh-course-material/raw/main/01-terminal/cheat-sheet.pdf
+
+[numpy-data]:  https://github.com/pp4rs/2021-uzh-course-material/raw/main/02-python-numpy/data.zip
+[pandas-data]: https://github.com/pp4rs/2021-uzh-course-material/raw/main/03-python-pandas/data.zip
 
 [pdf-icon]:      https://image.flaticon.com/icons/png/512/35/35653.png
 [zip-file-icon]: https://cdn.onlinewebfonts.com/svg/img_261112.png
