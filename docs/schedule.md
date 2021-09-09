@@ -35,7 +35,7 @@ It may be updated prior to the beginning of the course, and updated schedule wil
   | -----------  |-----------------| ------------------- | ------------------------|--------------------| ---------------|
   | AM           |  Python: Numpy  | Python: Plotting    |  Python: SciPy          | Adv. Python        | Version Control |
   | PM           |  Python: Pandas | Python: Metrics     |    Webscraping          | Version Control    |  R: Basics     |
-  | Room         |  SOD-1-101      |   KOL-F-123         |   RAA-E-27              | RAA-E-27           | RAK-E-8        |
+  | Room         |  SOD-1-101      |   KOL-F-123         |   RAA-E-27              | RAA-E-27           | KOL-F-123      |
 
 
 ### Week 3
@@ -43,5 +43,5 @@ It may be updated prior to the beginning of the course, and updated schedule wil
   | -----------  |-----------------| ------------------- | ------------------------|--------------------| ---------------|
   | AM           |     R: Basics   |   R: Plotting       |   R: Econometrics       |  Build Tools       |  Project Kickstarter  |
   | PM           | R: Data Analy.  |   R: Econometrics   |   Advanced R            |  Build Tools       |  Project Kickstarter  |
-  | Room         |  SOD-1-101      |   SOD-1-104         |   SOF-G_21              | RAA-E-27           | RAA-E-27       |
+  | Room         |  SOD-1-106      |   SOD-1-104         |   SOF-G_21              | RAA-E-27           | RAA-E-27       |
 
