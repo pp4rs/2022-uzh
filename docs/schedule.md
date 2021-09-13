@@ -43,5 +43,5 @@ It may be updated prior to the beginning of the course, and updated schedule wil
   | -----------  |-----------------| ------------------- | ------------------------|--------------------| ---------------|
   | AM           |     R: Basics   |   R: Plotting       |   R: Econometrics       |  Build Tools       |  Project Kickstarter  |
   | PM           | R: Data Analy.  |   R: Econometrics   |   Advanced R            |  Build Tools       |  Project Kickstarter  |
-  | Room         |  SOD-1-106      |   SOD-1-104         |   SOF-G_21              | RAA-E-27           | RAA-E-27       |
+  | Room         |  SOC  106       |   SOD-1-104         |   SOF-G_21              | RAA-E-27           | RAA-E-27       |
 
