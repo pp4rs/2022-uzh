@@ -16,7 +16,7 @@ Once we introduce Git and GitHub all materials can be found [here][course-materi
 
 ### Python
 
-[Link to Lecture Notes](https://pp4rs.github.io/pp4rs-python/intro.html)
+[Link to all Python Lecture Notes](https://pp4rs.github.io/pp4rs-python/intro.html)
 
 ## Week 2
 
@@ -28,6 +28,23 @@ Once we introduce Git and GitHub all materials can be found [here][course-materi
 
 [![][zip-file-icon]{: style="width:25px"}][pandas-data] [Data for the session][pandas-data]
 
+### Version Control with Git
+
+[![][pdf-icon]{: style="width:25px"}][git-local] [Slides - working locally][git-local]
+
+[![][pdf-icon]{: style="width:25px"}][git-remote] [Slides - working with a remote][git-remote]
+
+
+## Week 3
+### R Notes
+
+Coming soon!
+
+### Snakemake
+
+[Link to starting template][snakemake-start]
+
+
 [course-material]: https://github.com/pp4rs/2021-uzh-course-material
 
 [intro-slides]: https://github.com/pp4rs/2021-uzh-course-material/raw/main/00-intro/intro.pdf
@@ -37,6 +54,11 @@ Once we introduce Git and GitHub all materials can be found [here][course-materi
 
 [numpy-data]:  https://github.com/pp4rs/2021-uzh-course-material/raw/main/02-python-numpy/data.zip
 [pandas-data]: https://github.com/pp4rs/2021-uzh-course-material/raw/main/03-python-pandas/data.zip
+
+[git-local]: https://github.com/pp4rs/2021-uzh-course-material/raw/main/08-version-control/git-local.pdf
+[git-remote]: https://github.com/pp4rs/2021-uzh-course-material/raw/main/08-version-control/git-remote.pdf
+
+[snakemake-start]: https://github.com/pp4rs/workflows-snakemake-novice
 
 [pdf-icon]:      https://image.flaticon.com/icons/png/512/35/35653.png
 [zip-file-icon]: https://cdn.onlinewebfonts.com/svg/img_261112.png
