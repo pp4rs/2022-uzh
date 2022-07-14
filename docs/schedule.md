@@ -1,7 +1,7 @@
 # Class Schedule
 
 !!! summary "Essential Information"
-    Classes begins on the 1st of September at 9.30 am and runs Monday to Friday until the 17th of September.
+    Classes begins on the 24th of August at 9.30 am and runs Monday to Friday until the 9th of September.
     Each day is divided into two sessions:
 
     * Morning - 9.30 - 12.30
