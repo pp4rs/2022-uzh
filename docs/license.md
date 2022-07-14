@@ -64,5 +64,5 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 The suggested citation to be included in any such copies and other derivative work is:
 
 ```
-Lachlan Deer and Julian Langer (2021) Programming Practices for Research in Economics, University of Zurich
+Lachlan Deer, Julian Langer and Martin Stancsics (2022) Programming Practices for Research in Economics, University of Zurich
 ```
