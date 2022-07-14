@@ -11,7 +11,7 @@ Welcome to the course website for Programming Practices for Research in Economic
 
 !!! summary
 
-    * Dates: Daily from September 2nd until September 17th (excluding weekends)
+    * Dates: Daily from August 24th until September 9th (excluding weekends)
     * Morning Session: 9.30 - 12.30
     * Afternoon Session: 14.00 - 17.00
     * Location: See [Schedule](./schedule)
@@ -23,7 +23,7 @@ Welcome to the course website for Programming Practices for Research in Economic
 
 Please fill out the pre-course survey before the course begins.
 
-[![](https://img.icons8.com/cotton/64/000000/survey.png){: style="width:38px"}](https://forms.gle/zGkRg7ABpqD2mbEs9) [Pre-Course Survey](https://forms.gle/zGkRg7ABpqD2mbEs9)
+[![](https://img.icons8.com/cotton/64/000000/survey.png){: style="width:38px"}](https://forms.gle/ZrxzytvKrjmE8rFs8) [Pre-Course Survey](https://forms.gle/ZrxzytvKrjmE8rFs8)
 
 ## Software Installation Guide
 
@@ -50,4 +50,4 @@ Throughout the course we will post useful tidbits of information, and answer que
 [![](https://maxcdn.icons8.com/Share/icon/Logos//slack1600.png){: style="width:32px"}](https://pp4rs.slack.com/) [Join Our Chat](https://pp4rs.slack.com/)
 
 * Log in with your econ.uzh.ch, bf.uzh.ch or uzh.ch email address.
-* Join the channel `#general-2021`
+* Join the channel `#general-2022`

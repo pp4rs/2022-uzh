@@ -4,7 +4,7 @@ Important announcements will be posted here to avoid our inboxes getting clogged
 
 If you have questions during the course - direct them to us via [Slack](https://pp4rs.slack.com). There's a 'Direct Message' feature so you can contact us individually as needed, but where possible post messages to a channel that all participants can see.
 
-
+<!-- 
 !!! bug "Final Assignment"
     *Date Posted: 2021-09-27*
 
@@ -32,7 +32,7 @@ If you have questions during the course - direct them to us via [Slack](https://
     * To pass the course:
         *  Your code must build without errors via Snakemake (unless we find something really weird, then we will reach out to you)
         * The project must be version controlled, with each contributor making commits. One final commit is not enough.
-        * Inputs and outputs must be in separate folders.
+        * Inputs and outputs must be in separate folders. -->
 
 !!! note "Welcome Message"
     *Date Posted: 2021-08-23*
@@ -52,13 +52,13 @@ If you have questions during the course - direct them to us via [Slack](https://
     * **[Pre-Course Survey](https://forms.gle/zGkRg7ABpqD2mbEs9)**.
         * Please fill this out before the course begins.
 
-    To avoid clogging up everyone's inboxes with course email, all future important information will be posted on the course's [Announcements page](https://pp4rs.github.io/2021-uzh/announcements) - be sure to check in there regularly. Smaller pieces of information and course chat will take place inside a chat environment, called [Slack](https://www.slack.com). Sign up to join the conversation [here](https://pp4rs.slack.com).
+    To avoid clogging up everyone's inboxes with course email, all future important information will be posted on the course's [Announcements page](https://pp4rs.github.io/2022-uzh/announcements) - be sure to check in there regularly. Smaller pieces of information and course chat will take place inside a chat environment, called [Slack](https://www.slack.com). Sign up to join the conversation [here](https://pp4rs.slack.com).
 
     We look forward to seeing you on the first day of classes on Thursday, September 2nd, at 9.30am.
 
     Best,
 
-    Lachlan, Julian, Lexi and Martin
+    Martin and Julius
 
 <!-- HERE IS AN EXAMPLE NOTE BOX -->
 <!-- !!! note "YOUR NOTE NAME"
