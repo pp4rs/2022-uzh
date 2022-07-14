@@ -1,8 +1,11 @@
-Lesson: 2020-uzh
-Title: 2020 Uni Zurich Course Homepage
+Lesson: 2022-uzh
+Title: 2022 Uni Zurich Course Homepage
 Version: 2020.1.0
-Authors: person("Lachlan", "Deer", email = "lachlan.deer@gmail.com", role = c("aut", "cre"))
-Maintainer: Lachlan Deer <lachlan.deer@gmail.com>
+Authors: c(
+    person("Lachlan", "Deer", email = "lachlan.deer@gmail.com", role = "cre"),
+    person("Martin", "Stancsics", email = "martin.stancsics@gmail.com", role = "aut")
+    )
+Maintainer: Martin Stancsics <martin.stancsics@gmail.com>
 Description: Course Homepage. Built using `Mkdocs.`
 License: CC-BY-NC-SA
 Encoding: UTF-8
