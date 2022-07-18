@@ -7,7 +7,7 @@
 *   Institute: [Department of Economics, University of Zurich](https://econ.uzh.ch)
 *   Current Version: [Winter 2020](https://pp4rs.github.io/2021-uzh)
 
-Alternatively, email us at: pp4rs 'DOT' contact 'AT' gmail 'DOT' com
+Alternatively, email us at: pp4rs@econ.uzh.ch
 
 ## Building the Site
 

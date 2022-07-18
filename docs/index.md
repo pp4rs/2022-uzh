@@ -15,7 +15,7 @@ Welcome to the course website for Programming Practices for Research in Economic
     * Morning Session: 9.30 - 12.30
     * Afternoon Session: 14.00 - 17.00
     * Location: See [Schedule](./schedule)
-    * Contact: pp4rs.contact@gmail.com
+    * Contact: pp4rs@econ.uzh.ch
 
 
 ## Pre-Course Survey
