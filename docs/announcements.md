@@ -2,7 +2,7 @@
 
 Important announcements will be posted here to avoid our inboxes getting clogged up.
 
-If you have questions during the course - direct them to us via [Slack](https://pp4rs.slack.com). There's a 'Direct Message' feature so you can contact us individually as needed, but where possible post messages to a channel that all participants can see.
+If you have questions during the course - direct them to us via [Teams](https://teams.microsoft.com/l/channel/19%3a5f6228b0381e4a4cb00c4c3bcae33ef7%40thread.tacv2/General%2520(2022)?groupId=a57eafc0-f04b-4d0e-8013-fb868b027728&tenantId=c7e438db-e462-4c22-a90a-c358b16980b3). There's a 'Direct Message' feature so you can contact us individually as needed, but where possible post messages to a channel that all participants can see.
 
 <!-- 
 !!! bug "Final Assignment"
@@ -52,7 +52,7 @@ If you have questions during the course - direct them to us via [Slack](https://
     * **[Pre-Course Survey](https://forms.gle/ZrxzytvKrjmE8rFs8)**.
         * Please fill this out before the course begins.
 
-    To avoid clogging up everyone's inboxes with course email, all future important information will be posted on the course's [Announcements page](https://pp4rs.github.io/2022-uzh/announcements) - be sure to check in there regularly. Smaller pieces of information and course chat will take place inside a chat environment, called [Slack](https://www.slack.com). Sign up to join the conversation [here](https://pp4rs.slack.com).
+    To avoid clogging up everyone's inboxes with course email, all future important information will be posted on the course's [Announcements page](https://pp4rs.github.io/2022-uzh/announcements) - be sure to check in there regularly. Smaller pieces of information and course chat will take place inside [Teams](https://teams.microsoft.com/l/channel/19%3a5f6228b0381e4a4cb00c4c3bcae33ef7%40thread.tacv2/General%2520(2022)?groupId=a57eafc0-f04b-4d0e-8013-fb868b027728&tenantId=c7e438db-e462-4c22-a90a-c358b16980b3). Join the conversation [here](https://teams.microsoft.com/l/channel/19%3a5f6228b0381e4a4cb00c4c3bcae33ef7%40thread.tacv2/General%2520(2022)?groupId=a57eafc0-f04b-4d0e-8013-fb868b027728&tenantId=c7e438db-e462-4c22-a90a-c358b16980b3).
 
     We look forward to seeing you on the first day of classes on Thursday, September 2nd, at 9.30am.
 
