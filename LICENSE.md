@@ -4,7 +4,7 @@
 ## Instructional material {-}
 
 All instructional material made available under the course titled "Programming Practices for Research in Economics"
- and authored by Lachlan Deer and Julian Langer is
+ and authored by Lachlan Deer, Julian Langer, Julius Schäper and Martin Stancsics is
 made available under the [Creative Commons Attribution
 license][cc-by-human]. The following is a human-readable summary of
 (and not a substitute for) the [full legal text of the CC BY 4.0
@@ -24,7 +24,7 @@ Under the following terms:
 
 * **Attribution**---You must give appropriate credit (mentioning that
   your work is derived from this tutorial and, where practical, linking to the material
-  https://tisem-digital-marketing.github.io/2021-smwa), provide a [link to the
+  https://pp4rs.github.io/2022-uzh), provide a [link to the
   license][cc-by-human], and indicate if changes were made. You may do
   so in any reasonable manner, but not in any way that suggests the
   licensor endorses you or your use.
@@ -45,7 +45,7 @@ Notices:
 
 ## Software {-}
 
-Except where otherwise noted, the example programs and other software provided by Lachlan Deer and Julian Langer are made available under the [OSI][osi]-approved
+Except where otherwise noted, the example programs and other software provided by the authors are made available under the [OSI][osi]-approved
 [MIT license][mit-license].
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:

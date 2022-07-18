@@ -1,6 +1,6 @@
 # Willkommen
 
-Welcome to the course website for Programming Practices for Research in Economics at the University of Zurich in Spring 2021.
+Welcome to the course website for Programming Practices for Research in Economics at the University of Zurich in Spring 2022.
 
 ## Important Information
 
@@ -37,7 +37,7 @@ You will need to install the necessary software on to your laptop to bring to th
 
     We will offer an installation help drop in at the following time:
 
-    * Day: September 1st
+    * Day: August 24
     * Time: TBA
     * Location: TBA
 

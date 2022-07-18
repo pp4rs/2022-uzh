@@ -45,18 +45,18 @@ Coming soon!
 [Link to starting template][snakemake-start]
 
 
-[course-material]: https://github.com/pp4rs/2021-uzh-course-material
+[course-material]: https://github.com/pp4rs/2022-uzh-course-material
 
-[intro-slides]: https://github.com/pp4rs/2021-uzh-course-material/raw/main/00-intro/intro.pdf
-[terminal-data]: https://github.com/pp4rs/2021-uzh-course-material/raw/main/01-terminal/terminal-data.zip
-[terminal-slides]: https://github.com/pp4rs/2021-uzh-course-material/raw/main/01-terminal/slides.pdf
-[terminal-cheat]: https://github.com/pp4rs/2021-uzh-course-material/raw/main/01-terminal/cheat-sheet.pdf
+[intro-slides]: https://github.com/pp4rs/2022-uzh-course-material/raw/main/00-intro/intro.pdf
+[terminal-data]: https://github.com/pp4rs/2022-uzh-course-material/raw/main/01-terminal/terminal-data.zip
+[terminal-slides]: https://github.com/pp4rs/2022-uzh-course-material/raw/main/01-terminal/slides.pdf
+[terminal-cheat]: https://github.com/pp4rs/2022-uzh-course-material/raw/main/01-terminal/cheat-sheet.pdf
 
-[numpy-data]:  https://github.com/pp4rs/2021-uzh-course-material/raw/main/02-python-numpy/data.zip
-[pandas-data]: https://github.com/pp4rs/2021-uzh-course-material/raw/main/03-python-pandas/data.zip
+[numpy-data]:  https://github.com/pp4rs/2022-uzh-course-material/raw/main/02-python-numpy/data.zip
+[pandas-data]: https://github.com/pp4rs/2022-uzh-course-material/raw/main/03-python-pandas/data.zip
 
-[git-local]: https://github.com/pp4rs/2021-uzh-course-material/raw/main/08-version-control/git-local.pdf
-[git-remote]: https://github.com/pp4rs/2021-uzh-course-material/raw/main/08-version-control/git-remote.pdf
+[git-local]: https://github.com/pp4rs/2022-uzh-course-material/raw/main/08-version-control/git-local.pdf
+[git-remote]: https://github.com/pp4rs/2022-uzh-course-material/raw/main/08-version-control/git-remote.pdf
 
 [snakemake-start]: https://github.com/pp4rs/workflows-snakemake-novice
 

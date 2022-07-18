@@ -1,7 +1,7 @@
 ## Why have a Code of Conduct?
 
-Our goal is to create the best possible community for becoming a a better economist and a better coder. 
-We want every member of the Porgramming Practices for Research in Economics community to be able to focus their full attention on these goals.
+Our goal is to create the best possible community for becoming a better economist and a better coder. 
+We want every member of the Programming Practices for Research in Economics community to be able to focus their full attention on these goals.
 This is impossible to do if you are being harassed, stalked, or discriminated against.
 
 Accordingly, all students, faculty, and invited guests are expected to show respect and courtesy to each other in all interactions, whether in person, in our online community, or in other contexts.
@@ -9,7 +9,7 @@ Accordingly, all students, faculty, and invited guests are expected to show resp
 To make sure that everyone has a common understanding of "show respect and courtesy to each other," we have adopted the following code of conduct. 
 The code of conduct is enforced by the course instructors.
 
-Report a violation [here](https://forms.gle/4gUq34QgsyhPGgFC6).
+Report a violation [here](https://forms.gle/SFH5cyV3VrgvQ4d26).
 
 ## Unacceptable behavior
 
@@ -72,7 +72,7 @@ The consequences for the course community of not reporting bad behavior outweigh
 
 ### Where and how to report
 
-Please report all code of conduct violations via the [reporting form](https://forms.gle/4gUq34QgsyhPGgFC6). 
+Please report all code of conduct violations via the [reporting form](https://forms.gle/SFH5cyV3VrgvQ4d26). 
 If you would rather discuss the matter in person with a faculty member, book office hours with one of us on the calendar, or email us to schedule a time to talk.
 
 In your report, please include:

@@ -35,11 +35,11 @@ If you have questions during the course - direct them to us via [Slack](https://
         * Inputs and outputs must be in separate folders. -->
 
 !!! note "Welcome Message"
-    *Date Posted: 2021-08-23*
+    *Date Posted: 2022-07-18*
 
     Welcome to the course "Programming Practices for Research in Economics."
 
-    Please take a look around the [course website](https://pp4rs.github.io/2021-uzh) before the course begins. All the latest information about the course contents, schedule and course locations (which may vary day-by day!) are available on these pages.
+    Please take a look around the [course website](https://pp4rs.github.io/2022-uzh) before the course begins. All the latest information about the course contents, schedule and course locations (which may vary day-by day!) are available on these pages.
 
     We particularly draw your attention to the:
 
@@ -49,7 +49,7 @@ If you have questions during the course - direct them to us via [Slack](https://
             * We expect you have tried to complete the guide yourself, and we will not be there to do it all for you.
             * The guide is modular in nature - with most steps being independent of those before and after.
             * For Windows users there are a couple of sections that are still being developed. They should be complete before September 1.
-    * **[Pre-Course Survey](https://forms.gle/zGkRg7ABpqD2mbEs9)**.
+    * **[Pre-Course Survey](https://forms.gle/ZrxzytvKrjmE8rFs8)**.
         * Please fill this out before the course begins.
 
     To avoid clogging up everyone's inboxes with course email, all future important information will be posted on the course's [Announcements page](https://pp4rs.github.io/2022-uzh/announcements) - be sure to check in there regularly. Smaller pieces of information and course chat will take place inside a chat environment, called [Slack](https://www.slack.com). Sign up to join the conversation [here](https://pp4rs.slack.com).

@@ -1,4 +1,4 @@
-# Course Website: Programming Practices for Research Students, 2021-UZH
+# Course Website: Programming Practices for Research Students, 2022-UZH
 
 ## Meta-Information
 
@@ -42,7 +42,7 @@ All materials are licensed under a Creative Commons CC-BY-SA license. The licens
 The suggested citation for the course materials is:
 
 ```
-Lachlan Deer and Julian Langer, 2021, Programming Practices for Research in Economics, University of Zurich
+Julius Schäper & Martin Stancsics (2022), Programming Practices for Research in Economics, University of Zurich
 ```
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
