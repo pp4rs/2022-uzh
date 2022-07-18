@@ -2,10 +2,10 @@
 
 ## Meta-Information
 
-*   Module Maintainer: Lachlan Deer (`@lachlandeer`)
+*   Module Maintainer: Martin Stancsics (`@stanmart`)
 *   Course: [Programming Practices for Research in Economics](https://pp4rs.github.io)
 *   Institute: [Department of Economics, University of Zurich](https://econ.uzh.ch)
-*   Current Version: [Winter 2020](https://pp4rs.github.io/2021-uzh)
+*   Current Version: [Fall 2022](https://pp4rs.github.io/2022-uzh)
 
 Alternatively, email us at: pp4rs@econ.uzh.ch
 
