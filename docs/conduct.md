@@ -32,28 +32,28 @@ The following types of behavior are unacceptable in our course, both online and 
 
 * **Being especially unpleasant** - for example, if we've received reports from multiple students or faculty of annoying, rude, or especially distracting behavior.
 
-* **Bringing guests into the course space**  - you may not bring non-course participants into the our course spaces except in very specific contexts.
+* **Bringing guests into the course space**  - you may not bring non-course participants into our course spaces except in very specific contexts.
   It’s important that everyone can trust that only other course participants will be in the space - it allows people to speak freely, feel comfortable leaving their belongings unattended, and trust that everyone is being held to the expectations in this code of conduct. 
   This is different from all the rest, but is nevertheless a code of conduct violation.
 
 ### Behavior that jeopardizes class credibility
 
 While the class is a learning community, it's also a community of friends. 
-We ask you to be aware of the fact that conversations that may be appropriate within the context of a specific friendship or relationship with another course participant may be inappropriate in the our course spaces or in a group conversation with course participants you don't know well.
+We ask you to be aware of the fact that conversations that may be appropriate within the context of a specific friendship or relationship with another course participant may be inappropriate in our course spaces or in a group conversation with course participants you don't know well.
 
 ## Scope
 
-Students, faculty and invited guests are held to the standards outlined in this code of conduct when interacting in-person, and online on the course's tools like Zoom, Slack, Canvas and GitHub.
+Students, faculty and invited guests are held to the standards outlined in this code of conduct when interacting in-person, and online on the course's tools like Zoom, Teams and GitHub.
 
 When in doubt, please report unacceptable behavior to us. 
 If someone's behavior outside of the confines of our course spaces makes you feel unsafe within them, that is absolutely relevant and actionable for us.
 
 ## Enforcement
 
-We've categorized unacceptable behavior into abuse, unwelcoming behavior, and behavior that jeopardizes our classes credibility in the sections above.
+We've categorized unacceptable behavior into abuse, unwelcoming behavior, and behavior that jeopardizes our class's credibility in the sections above.
 
 If we witness or receive a report about abusive behavior, we will contact the perpetrator to have a conversation with them and verify what has transpired.
-We will also report the behaviour to the appropriate contacts at Tilburg University where the university administration can decide on the next steps.
+We will also report the behaviour to the appropriate contacts at the University where the university administration can decide on the next steps.
 
 If we witness or receive a report about unwelcoming behavior or behavior that jeopardizes us as a class, we will contact the course participant involved to explain why their behavior was unacceptable, and warn them that a second code of conduct violation will result in further action.
 
@@ -67,7 +67,7 @@ If you see a violation of our code of conduct, please report it to the course in
 
 You are responsible for making the course a safe and comfortable space for everyone. 
 Everyone in our community shares this responsibility. 
-Instructors are not around the to observe all interactions relevant to our course so we cannot enforce the code of conduct without your help.
+Instructors are not around the to observe all interactions relevant to our course, so we cannot enforce the code of conduct without your help.
 The consequences for the course community of not reporting bad behavior outweigh the consequences for one person of reporting it. 
 
 ### Where and how to report
