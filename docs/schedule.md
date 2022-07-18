@@ -33,7 +33,7 @@ It may be updated prior to the beginning of the course, and updated schedule wil
 ### Week 2
   |              |  Monday         |       Tuesday       |       Wednesday         |      Thursday      |     Friday     |
   | -----------  |-----------------| ------------------- | ------------------------|--------------------| ---------------|
-  | AM           |  Python: Numpy  | Python: Plotting    |  Python: SciPy          | Adv. Python        | Version Control |
+  | AM           |  Python: Numpy  |    Python: SciPy    |    Python: Plotting     | Adv. Python        | Version Control |
   | PM           |  Python: Pandas | Python: Metrics     |    Webscraping          | Version Control    |  R: Basics     |
   | Room         |  TBA            | TBA                 |  TBA                    | TBA                | TBA            |
 
