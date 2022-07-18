@@ -41,13 +41,13 @@ You will need to install the necessary software on to your laptop to bring to th
     * Time: TBA
     * Location: TBA
 
-## Slack Chat
+## Microsoft Teams
 
-Throughout the course we will post useful tidbits of information, and answer questions that are slightly off topic in a web-chat environment called Slack.
+Throughout the course we will post useful tidbits of information, and answer questions that are slightly off topic via Microsoft Teams.
 
 <!-- Instructions on how to join our Slack chat will be distributed closer to the course start date. -->
 
-[![](https://maxcdn.icons8.com/Share/icon/Logos//slack1600.png){: style="width:32px"}](https://pp4rs.slack.com/) [Join Our Chat](https://pp4rs.slack.com/)
+[![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg){: style="width:32px"}](https://teams.microsoft.com/l/channel/19%3a5f6228b0381e4a4cb00c4c3bcae33ef7%40thread.tacv2/General%2520(2022)?groupId=a57eafc0-f04b-4d0e-8013-fb868b027728&tenantId=c7e438db-e462-4c22-a90a-c358b16980b3) [Join Our Chat](https://teams.microsoft.com/l/channel/19%3a5f6228b0381e4a4cb00c4c3bcae33ef7%40thread.tacv2/General%2520(2022)?groupId=a57eafc0-f04b-4d0e-8013-fb868b027728&tenantId=c7e438db-e462-4c22-a90a-c358b16980b3)
 
 * Log in with your econ.uzh.ch, bf.uzh.ch or uzh.ch email address.
-* Join the channel `#general-2022`
+* Join the channel `General (2022)`
