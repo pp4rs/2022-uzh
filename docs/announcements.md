@@ -45,16 +45,15 @@ If you have questions during the course - direct them to us via [Teams](https://
 
     *  **[Installation Guide](https://pp4rs.github.io/installation-guide/)**. These pages walk you through the steps needed to install all the software for the course.
         * We expect you to have completed it before the course begins.
-        * We are offering help to individuals struggling with the steps involved in the installation guide in a 'Help Session' before the course begins: Wednesday, September 1st. Time and location are TBA.
+        * We are offering help to individuals struggling with the steps involved in the installation guide in a 'Help Session' before the course begins: Wednesday, August 24th. Time and location are TBA.
             * We expect you have tried to complete the guide yourself, and we will not be there to do it all for you.
             * The guide is modular in nature - with most steps being independent of those before and after.
-            * For Windows users there are a couple of sections that are still being developed. They should be complete before September 1.
     * **[Pre-Course Survey](https://forms.gle/ZrxzytvKrjmE8rFs8)**.
         * Please fill this out before the course begins.
 
     To avoid clogging up everyone's inboxes with course email, all future important information will be posted on the course's [Announcements page](https://pp4rs.github.io/2022-uzh/announcements) - be sure to check in there regularly. Smaller pieces of information and course chat will take place inside [Teams](https://teams.microsoft.com/l/channel/19%3a5f6228b0381e4a4cb00c4c3bcae33ef7%40thread.tacv2/General%2520(2022)?groupId=a57eafc0-f04b-4d0e-8013-fb868b027728&tenantId=c7e438db-e462-4c22-a90a-c358b16980b3). Join the conversation [here](https://teams.microsoft.com/l/channel/19%3a5f6228b0381e4a4cb00c4c3bcae33ef7%40thread.tacv2/General%2520(2022)?groupId=a57eafc0-f04b-4d0e-8013-fb868b027728&tenantId=c7e438db-e462-4c22-a90a-c358b16980b3).
 
-    We look forward to seeing you on the first day of classes on Thursday, September 2nd, at 9.30am.
+    We look forward to seeing you on the first day of classes on Thursday, August 25th, at 9.30am.
 
     Best,
 
