@@ -7,7 +7,7 @@
     * Morning - 9.30 - 12.30
     * Afternoon - 14.00 - 17.00
 
-    Class Locations: TBA
+    Class Locations: FRE-D-14
 
     The topic schedule for each day can be found below.
 
@@ -27,7 +27,7 @@ It may be updated prior to the beginning of the course, and updated schedule wil
   | -----------  |-----------------| ------------------- | ------------------------|--------------------| ---------------|
   | AM           |                 |                     |    Installation Help    |   Terminal         | Basic Python   |
   | PM           |                 |                     |    Installation Help    | Basic Python       | Basic Python   |
-  | Room         |                 |                     |    TBA                  | TBA                | TBA            |
+  | Room         |                 |                     |    FRE-D-14             | FRE-D-14           | FRE-D-14       |
 
 
 ### Week 2
@@ -35,7 +35,7 @@ It may be updated prior to the beginning of the course, and updated schedule wil
   | -----------  |-----------------| ------------------- | ------------------------|--------------------| ---------------|
   | AM           |  Python: Numpy  |    Python: SciPy    |    Python: Plotting     | Adv. Python        | Version Control |
   | PM           |  Python: Pandas | Python: Metrics     |    Webscraping          | Version Control    |  R: Basics     |
-  | Room         |  TBA            | TBA                 |  TBA                    | TBA                | TBA            |
+  | Room         |  FRE-D-14       | FRE-D-14            |  FRE-D-14               | FRE-D-14           | FRE-D-14       |
 
 
 ### Week 3
@@ -43,5 +43,5 @@ It may be updated prior to the beginning of the course, and updated schedule wil
   | -----------  |-----------------| ------------------- | ------------------------|--------------------| ---------------|
   | AM           |     R: Basics   |   R: Plotting       |   R: Econometrics       |  Build Tools       |  Project Kickstarter  |
   | PM           | R: Data Analy.  |   R: Econometrics   |   Advanced R            |  Build Tools       |  Project Kickstarter  |
-  | Room         |  TBA            |   TBA               |   TBA                   |  TBA               | TBA            |
+  | Room         |  FRE-D-14       |   FRE-D-14          |   FRE-D-14              |  FRE-D-14          | FRE-D-14       |
 

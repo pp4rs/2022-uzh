@@ -34,6 +34,11 @@ If you have questions during the course - direct them to us via [Teams](https://
         * The project must be version controlled, with each contributor making commits. One final commit is not enough.
         * Inputs and outputs must be in separate folders. -->
 
+!!! note "Room"
+    *Date Posted: 2022-08-23*
+
+    All sessions will take place in room FRE-D-14 ([Freestrasse 36](https://www.plaene.uzh.ch/FRE/room/FRE-D-14)). Any further room changes will be signalled on Teams and on this page.
+
 !!! note "Welcome Message"
     *Date Posted: 2022-07-18*
 
